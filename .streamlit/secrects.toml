@@ -1,9 +1,0 @@
-openai_api_key="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"
-[connections.snowpark]
-user="trevor"
-password="Culligan315**"
-account="ldxysxs-io82651"
-database="RETAIL"
-schema="PUBLIC"
-warehouse="COMPUTE_WH"
-role="trevor"
